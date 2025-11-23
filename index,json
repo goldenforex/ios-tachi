@@ -1,0 +1,13 @@
+{
+  "name": "My Custom Repository",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "MangaWorld",
+      "id": "mangaworld",
+      "version": 1,
+      "lang": "en",
+      "url": "extensions/mangaworld/mangaworld.tachipkg"
+    }
+  ]
+}
